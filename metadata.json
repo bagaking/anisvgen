@@ -1,0 +1,5 @@
+{
+  "name": "AnimGen - AI SVG & Rive-style Animator",
+  "description": "Generate high-quality, transparent Rive-style SVG animations from text descriptions using Gemini AI. Edit, resize, export, and share your creations.",
+  "requestFramePermissions": []
+}
